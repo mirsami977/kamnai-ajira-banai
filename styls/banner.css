@@ -36,3 +36,31 @@ padding: 10px;
     border-radius:5px ;
    padding: 10px ;
 }
+/*  Ei code gulu ami notun kore korsi */
+.card-section {
+    padding: 30px;
+    background-color: white;
+}
+.card-container {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+#samir-bou-re-chudi{
+    margin: 20px auto;
+    padding: 4px;
+    text-align: center;
+    background-color: lime;
+    border: 2px solid green;
+    border-radius: 10px;
+    width: 300px;
+    font-size: 1.2em;
+    font-weight: bold;
+    color: darkgreen;
+    cursor: pointer;
+}
+
+#samir-bou-re-chudi:hover {
+    background-color: darkgreen;
+    color: white;
+}
