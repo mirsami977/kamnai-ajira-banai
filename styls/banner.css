@@ -1,0 +1,38 @@
+.hero-banner{
+display: flex;
+gap: 30px   ;
+align-items: center;
+background-color: lightgreen ;
+padding: 25px;
+font-size: 90%;
+}
+.hero-banner img{
+    width: 100%;
+    height: 300px;
+    
+}
+body{
+    max-width: 1140px;
+    background-color: blanchedalmond;
+    margin: auto ;
+}
+.hero-banner button{
+    background-color: brown;
+    padding: 15px 20px;
+    font-size: 1.2em;
+    border-radius: 20px;
+    cursor: pointer;
+    
+    
+}
+.card{
+width: 300px;
+border: 2px solid mediumseagreen;
+border-radius: 22px 14px ;
+padding: 10px;
+}
+.card img{
+    width: 90%;
+    border-radius:5px ;
+   padding: 10px ;
+}
